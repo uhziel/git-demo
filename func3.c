@@ -1,2 +1,2 @@
-int func3(nt a, int b) {  return a - b;}
+int func3(int a, int b) {  return a - b;}
 
